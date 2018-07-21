@@ -229,7 +229,7 @@ tab_title_change:
 ## https://github.com/PaicHyperionDev/hexo-generator-search
 search: 
   #on: true
-  onload: false
+  on: false
   ## true: get search.xml file when the page has loaded
   ## false: get the file when search box gets focus
 
